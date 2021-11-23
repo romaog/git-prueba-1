@@ -1,0 +1,15 @@
+{
+    "name": "aula002/git-prueba-1",
+    "autoload": {
+        "psr-4": {
+            "Aula002\\GitPrueba1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roma Ongay",
+            "email": "ongayroma@gmail.com"
+        }
+    ],
+    "require": {}
+}
