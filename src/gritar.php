@@ -7,6 +7,6 @@ class Gritar{
     }
 
     function gritar(){
-        echo $this ->gritar;
+        echo $this ->grito;
     }
 }
