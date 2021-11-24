@@ -7,3 +7,6 @@ $saludo->saludar();
 
 $adios = new Adios("nachito");
 $adios->adios();
+
+$grito = new Gritar("nachito");
+$grito->gritar();
